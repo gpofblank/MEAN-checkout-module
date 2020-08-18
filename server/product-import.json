@@ -1,0 +1,30 @@
+[
+  {
+    "name": "product1",
+    "image": "https://petapixel.com/assets/uploads/2017/03/product1.jpeg",
+    "price": 150,
+    "description": "cool descr",
+    "__v": 0
+  },
+  {
+    "name": "product2",
+    "image": "https://petapixel.com/assets/uploads/2017/03/product4.jpeg",
+    "price": 745,
+    "description": "cool descr 2",
+    "__v": 0
+  },
+  {
+    "name": "product3",
+    "image": "https://petapixel.com/assets/uploads/2017/03/product1.jpeg",
+    "price": 167,
+    "description": "cool descr 3",
+    "__v": 0
+  },
+  {
+    "name": "product4",
+    "image": "https://petapixel.com/assets/uploads/2017/03/product4.jpeg",
+    "price": 135,
+    "description": "cool descr 4",
+    "__v": 0
+  }
+]
